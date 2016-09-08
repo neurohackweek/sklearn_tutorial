@@ -1,0 +1,5 @@
+name: sklearn_tutorial
+
+dependencies:
+  - seaborn
+  - scikit-learn
